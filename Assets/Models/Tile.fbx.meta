@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 6b41dbd8f82079f488a64393656e0e28
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: IfEastIsNotWalkableButNorthAndNorthEastAre
+    100004: IfEastIsNotWalkableButSouthAndSouthEastAre
+    100006: IfEastIsWalkable
+    100008: IfNorthEastIsNotWalkableButEastIs
+    100010: IfNorthEastIsNotWalkableButNorthIs
+    100012: IfNorthEastIsWalkable
+    100014: IfNorthIsNotWalkableButEastAndNorthEastAre
+    100016: IfNorthIsNotWalkableButWestAndNorthWestAre
+    100018: IfNorthWalkable
+    100020: IfNorthWestIsNotWalkableButNorthIs
+    100022: IfNorthWestIsNotWalkableButWestIs
+    100024: IfNorthWestIsWalkable
+    100026: IfSouthEastIsNotWalkableButEastIs
+    100028: IfSouthEastIsNotWalkableButSouthIs
+    100030: IfSouthEastIsWalkable
+    100032: IfSouthIsNotWalkableButEastAndSouthEastAre
+    100034: IfSouthIsNotWalkableButWestAndSouthWestAre
+    100036: IfSouthWalkable
+    100038: IfSouthWestIsNotWalkableButSouthIs
+    100040: IfSouthWestIsNotWalkableButWestIs
+    100042: IfSouthWestIsWalkable
+    100044: IfWestIsNotWalkableButNorthAndNorthWestAre
+    100046: IfWestIsNotWalkableButSouthAndSouthWestAre
+    100048: IfWestIsWalkable
+    100050: Lamp
+    100052: //RootNode
+    400000: Camera
+    400002: IfEastIsNotWalkableButNorthAndNorthEastAre
+    400004: IfEastIsNotWalkableButSouthAndSouthEastAre
+    400006: IfEastIsWalkable
+    400008: IfNorthEastIsNotWalkableButEastIs
+    400010: IfNorthEastIsNotWalkableButNorthIs
+    400012: IfNorthEastIsWalkable
+    400014: IfNorthIsNotWalkableButEastAndNorthEastAre
+    400016: IfNorthIsNotWalkableButWestAndNorthWestAre
+    400018: IfNorthWalkable
+    400020: IfNorthWestIsNotWalkableButNorthIs
+    400022: IfNorthWestIsNotWalkableButWestIs
+    400024: IfNorthWestIsWalkable
+    400026: IfSouthEastIsNotWalkableButEastIs
+    400028: IfSouthEastIsNotWalkableButSouthIs
+    400030: IfSouthEastIsWalkable
+    400032: IfSouthIsNotWalkableButEastAndSouthEastAre
+    400034: IfSouthIsNotWalkableButWestAndSouthWestAre
+    400036: IfSouthWalkable
+    400038: IfSouthWestIsNotWalkableButSouthIs
+    400040: IfSouthWestIsNotWalkableButWestIs
+    400042: IfSouthWestIsWalkable
+    400044: IfWestIsNotWalkableButNorthAndNorthWestAre
+    400046: IfWestIsNotWalkableButSouthAndSouthWestAre
+    400048: IfWestIsWalkable
+    400050: Lamp
+    400052: //RootNode
+    2000000: Camera
+    2100000: No Name
+    2100002: Material
+    2300000: IfEastIsNotWalkableButNorthAndNorthEastAre
+    2300002: IfEastIsNotWalkableButSouthAndSouthEastAre
+    2300004: IfEastIsWalkable
+    2300006: IfNorthEastIsNotWalkableButEastIs
+    2300008: IfNorthEastIsNotWalkableButNorthIs
+    2300010: IfNorthEastIsWalkable
+    2300012: IfNorthIsNotWalkableButEastAndNorthEastAre
+    2300014: IfNorthIsNotWalkableButWestAndNorthWestAre
+    2300016: IfNorthWalkable
+    2300018: IfNorthWestIsNotWalkableButNorthIs
+    2300020: IfNorthWestIsNotWalkableButWestIs
+    2300022: IfNorthWestIsWalkable
+    2300024: IfSouthEastIsNotWalkableButEastIs
+    2300026: IfSouthEastIsNotWalkableButSouthIs
+    2300028: IfSouthEastIsWalkable
+    2300030: IfSouthIsNotWalkableButEastAndSouthEastAre
+    2300032: IfSouthIsNotWalkableButWestAndSouthWestAre
+    2300034: IfSouthWalkable
+    2300036: IfSouthWestIsNotWalkableButSouthIs
+    2300038: IfSouthWestIsNotWalkableButWestIs
+    2300040: IfSouthWestIsWalkable
+    2300042: IfWestIsNotWalkableButNorthAndNorthWestAre
+    2300044: IfWestIsNotWalkableButSouthAndSouthWestAre
+    2300046: IfWestIsWalkable
+    3300000: IfEastIsNotWalkableButNorthAndNorthEastAre
+    3300002: IfEastIsNotWalkableButSouthAndSouthEastAre
+    3300004: IfEastIsWalkable
+    3300006: IfNorthEastIsNotWalkableButEastIs
+    3300008: IfNorthEastIsNotWalkableButNorthIs
+    3300010: IfNorthEastIsWalkable
+    3300012: IfNorthIsNotWalkableButEastAndNorthEastAre
+    3300014: IfNorthIsNotWalkableButWestAndNorthWestAre
+    3300016: IfNorthWalkable
+    3300018: IfNorthWestIsNotWalkableButNorthIs
+    3300020: IfNorthWestIsNotWalkableButWestIs
+    3300022: IfNorthWestIsWalkable
+    3300024: IfSouthEastIsNotWalkableButEastIs
+    3300026: IfSouthEastIsNotWalkableButSouthIs
+    3300028: IfSouthEastIsWalkable
+    3300030: IfSouthIsNotWalkableButEastAndSouthEastAre
+    3300032: IfSouthIsNotWalkableButWestAndSouthWestAre
+    3300034: IfSouthWalkable
+    3300036: IfSouthWestIsNotWalkableButSouthIs
+    3300038: IfSouthWestIsNotWalkableButWestIs
+    3300040: IfSouthWestIsWalkable
+    3300042: IfWestIsNotWalkableButNorthAndNorthWestAre
+    3300044: IfWestIsNotWalkableButSouthAndSouthWestAre
+    3300046: IfWestIsWalkable
+    4300000: IfNorthWestIsNotWalkableButWestIs
+    4300002: IfNorthWestIsNotWalkableButNorthIs
+    4300004: IfNorthEastIsNotWalkableButNorthIs
+    4300006: IfNorthEastIsNotWalkableButEastIs
+    4300008: IfSouthEastIsNotWalkableButEastIs
+    4300010: IfSouthEastIsNotWalkableButSouthIs
+    4300012: IfNorthWestIsWalkable
+    4300014: IfNorthEastIsWalkable
+    4300016: IfWestIsNotWalkableButNorthAndNorthWestAre
+    4300018: IfNorthIsNotWalkableButWestAndNorthWestAre
+    4300020: IfEastIsNotWalkableButNorthAndNorthEastAre
+    4300022: IfNorthIsNotWalkableButEastAndNorthEastAre
+    4300024: IfSouthIsNotWalkableButEastAndSouthEastAre
+    4300026: IfNorthWalkable
+    4300028: IfEastIsNotWalkableButSouthAndSouthEastAre
+    4300030: IfWestIsNotWalkableButSouthAndSouthWestAre
+    4300032: IfSouthEastIsWalkable
+    4300034: IfEastIsWalkable
+    4300036: IfSouthWestIsNotWalkableButSouthIs
+    4300038: IfSouthWestIsNotWalkableButWestIs
+    4300040: IfSouthIsNotWalkableButWestAndSouthWestAre
+    4300042: IfWestIsWalkable
+    4300044: IfSouthWestIsWalkable
+    4300046: IfSouthWalkable
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
